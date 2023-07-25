@@ -1,6 +1,6 @@
 # Stopwatch-CN
 
-Link:
+Link: https://bannelarohith.github.io/Stopwatch-CN/
 
 ***
 ### Functionality
